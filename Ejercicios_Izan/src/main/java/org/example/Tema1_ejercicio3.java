@@ -15,16 +15,16 @@ public class Tema1_ejercicio3 {
 
         System.out.println("Introduce un número:");
         Scanner entrada = new Scanner(System.in);
-        int num1 = entrada.nextInt();
+        double num1 = entrada.nextInt();
 
         System.out.println("Introduce otro número:");
-        int num2 = entrada.nextInt();
+        double num2 = entrada.nextInt();
 
         if (num1==0 || num2==0) {
             System.out.println("ERROR. No se puede dividir entre 0");
         }
         else{
-            int div = num1 / num2;
+            double div = num1 / num2;
             System.out.println("El resultado es " + div);
         }
     }

@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-            Tema1_ejercicio3 tema1_ejercicio3 = new Tema1_ejercicio3();
-            tema1_ejercicio3.ejercicio3();
+            Tema1_ejercicio4 tema1_ejercicio4 = new Tema1_ejercicio4();
+            tema1_ejercicio4.ejercicio4();
         }
     }
