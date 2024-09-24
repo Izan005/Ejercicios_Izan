@@ -21,8 +21,13 @@ public class Actividad_inicial {
         System.out.println("Introduce otro número:");
         int numero2 = entrada.nextInt();
 
-        int suma = numero + numero2;
-        System.out.println("El resultado de la suma es :" + suma);
+        if (numero==0 || numero2==0){
+            System.out.println("Los sumandos no pueden ser 0");
+        }
+        else {
+            int suma = numero + numero2;
+            System.out.println("El resultado de la suma es :" + suma);
+        }
     }
 }
 
