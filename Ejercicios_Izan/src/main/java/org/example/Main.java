@@ -7,7 +7,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-            Tema1_ejercicio4 tema1_ejercicio4 = new Tema1_ejercicio4();
-            tema1_ejercicio4.ejercicio4();
+            //Tema1_ejercicio4 tema1_ejercicio4 = new Tema1_ejercicio4();
+            //tema1_ejercicio4.ejercicio4();
+
+            Operadores operadores = new Operadores();
+           //Operadores.operadores();
+           //operadores.asignacion();
+            //Operadores.comparacion();
+            Operadores.logica();
         }
     }
