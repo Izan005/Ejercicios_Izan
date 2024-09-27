@@ -1,5 +1,6 @@
 package org.example;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Actividad_inicial {
@@ -15,6 +16,13 @@ public class Actividad_inicial {
 
         System.out.println("Hola " + nombre + ", bienvenido a " + curso + ".");
 
+        int num1 = 0;
+        int num2 = 0;
+       try {
+           int x = entrada.nextInt();
+       } catch (NumberFormatException | InputMismatchException e) {
+           System.out.println("Introduce un número válido.");
+       }
         System.out.println("Introduce un número:");
         int numero = entrada.nextInt();
 
