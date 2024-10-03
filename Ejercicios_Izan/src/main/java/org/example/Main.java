@@ -1,5 +1,5 @@
 package org.example;
-
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-            Práctica3 práctica3 = new Práctica3();
-            Práctica3.practica3();
+           Práctica4 practica4 = new Práctica4();
+           practica4.practica4();
 
             //Operadores operadores = new Operadores();
            //Operadores.operadores();
