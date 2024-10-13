@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-           Tema2_ejercicio5 tema2Ejercicio5= new Tema2_ejercicio5();
-           tema2Ejercicio5.t2ejercicio5();
+          Práctica1_numero_de_la_suerte practica4= new Práctica1_numero_de_la_suerte();
+           practica4.p1();
 
             //Operadores operadores = new Operadores();
            //Operadores.operadores();
