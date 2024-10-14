@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Actividad_nuevas_excepcipones_t2 {
     public static void actividad_ext2(){
         Scanner entrada = new Scanner(System.in);
-        int año_nac = 1900;
+        int año_nac = 1800;
         LocalDateTime act = LocalDateTime.now();
         int act_añ = act.getYear();
 
