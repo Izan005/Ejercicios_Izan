@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-         Actividad_nuevas_excepcipones_t2 actividadext2= new Actividad_nuevas_excepcipones_t2();
-           actividadext2.actividad_ext2();
+         Práctica2_Tema2 p2t2= new Práctica2_Tema2();
+           Práctica2_Tema2.p2t2();
 
             //Operadores operadores = new Operadores();
            //Operadores.operadores();
