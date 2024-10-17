@@ -7,8 +7,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-         Práctica2_Tema2 p2t2= new Práctica2_Tema2();
-           Práctica2_Tema2.p2t2();
+        Ejercicio2_operadores_ternarios ternarios= new Ejercicio2_operadores_ternarios();
+               Ejercicio2_operadores_ternarios.ternarios();
 
             //Operadores operadores = new Operadores();
            //Operadores.operadores();
