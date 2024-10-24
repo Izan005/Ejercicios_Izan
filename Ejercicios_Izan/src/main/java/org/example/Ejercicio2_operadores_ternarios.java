@@ -13,7 +13,7 @@ public class Ejercicio2_operadores_ternarios {
 
         System.out.println("Resuelve este operador ternario");
         System.out.println("int a=5, b=1, c=3;");
-        System.out.println("int result = a++ == b*3 - c ? a-10 : b-5 == (c + 1) * (-b) ? a++ : a-1;");
+        System.out.println("int result = a++ == b*3 - c ? a-10 : b-4 == (c + 1) * (-b) ? a++ : a-1;");
         System.out.println("¿Cuál es el resultado?");
         int num = ent.nextInt();
 
