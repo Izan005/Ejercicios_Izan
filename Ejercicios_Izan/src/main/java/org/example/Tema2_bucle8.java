@@ -13,7 +13,7 @@ public class Tema2_bucle8 {
             int num = lon - i;
 
             String subcad = cad.substring(num);
-            System.out.println(subcad);
+            System.out.print(subcad);
         }
     }
 }
