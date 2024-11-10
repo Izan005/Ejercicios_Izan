@@ -5,8 +5,18 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Preext2_7 t2_6 = new Preext2_7();
-        Preext2_7.t2_7();
+        Tema3_Practica1 t31 = new Tema3_Practica1();
+        t31.t31();
+
+
+//        VectoresT36 vectores = new VectoresT36();
+//        vectores.vectores36();
+
+//        prueba ejer7 = new prueba();
+//        ejer7.ejer7();
+
+//        Preext2_7 t2_7 = new Preext2_7();
+//        Preext2_7.t2_7();
 
 //        EjercicioRandom4 r2 = new EjercicioRandom4();
 //        EjercicioRandom4.r2();
