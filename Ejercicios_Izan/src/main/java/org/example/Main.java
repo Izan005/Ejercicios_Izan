@@ -5,8 +5,14 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Tema3_Practica1 t31 = new Tema3_Practica1();
-        t31.t31();
+        Ruleta ruleta = new Ruleta();
+        ruleta.ruleta();
+
+//        NavidadSplit navidadSplit = new NavidadSplit();
+//        navidadSplit.aslist();
+
+//        Tema3_Practica1 t31 = new Tema3_Practica1();
+//        t31.t31();
 
 
 //        VectoresT36 vectores = new VectoresT36();
