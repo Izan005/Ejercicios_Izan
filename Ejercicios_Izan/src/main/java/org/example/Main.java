@@ -5,8 +5,14 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Ruleta ruleta = new Ruleta();
-        ruleta.ruleta();
+        Tema3_Practica2 tema3Practica2 = new Tema3_Practica2();
+        tema3Practica2.t3p2();
+
+//        quicksort quicksort = new quicksort();
+//        quicksort.prueba_distinct();
+
+//        Ruleta ruleta = new Ruleta();
+//        ruleta.ruleta();
 
 //        NavidadSplit navidadSplit = new NavidadSplit();
 //        navidadSplit.aslist();
