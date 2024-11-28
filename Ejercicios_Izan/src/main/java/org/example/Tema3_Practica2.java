@@ -31,7 +31,7 @@ public class Tema3_Practica2 {
         // no encuentre ninguna duplicidad.
 
 
-        for (int i = 0; i<boleto_premio.length; i++) { //Bucle que repasa el vector boleto_premio y mira si hay alguna cifra igual al número comlementario.
+        for (int i = 0; i<boleto_premio.length; i++) { //Bucle que repasa el vector boleto_premio y mira si hay alguna cifra igual al número complementario.
             // Si el complementario es igual a un número del vector boleto_premio, se vuelve a asignar un número aleatorio.
 
             if (complementario[0] == boleto_premio[i]) {

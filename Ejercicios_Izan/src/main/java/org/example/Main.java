@@ -5,8 +5,23 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Tema3_Practica2 tema3Practica2 = new Tema3_Practica2();
-        tema3Practica2.t3p2();
+        Práctica3_Tema3 práctica3Tema3 = new Práctica3_Tema3();
+        práctica3Tema3.p3_t3();
+
+//        vectores_matrices vectoresMatrices = new vectores_matrices();
+//        vectoresMatrices.vect_matr();
+
+//        Bateria_matrices bateriaMatrices = new Bateria_matrices();
+//        bateriaMatrices.bat_mat3();
+
+//        matrices  matrices = new matrices();
+//        matrices.matrices3();
+
+//        bucles_anidados buclesAnidados = new bucles_anidados();
+//        buclesAnidados.bucles_anidados3();
+
+//        Tema3_Practica2 tema3Practica2 = new Tema3_Practica2();
+//        tema3Practica2.t3p2();
 
 //        quicksort quicksort = new quicksort();
 //        quicksort.prueba_distinct();
