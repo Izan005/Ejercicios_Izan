@@ -5,8 +5,15 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Práctica3_Tema3 práctica3Tema3 = new Práctica3_Tema3();
-        práctica3Tema3.p3_t3();
+//            Ejercicios_Metodos.ejercicio4();
+
+
+//        int cosa[][] = {{1,2,3}, {4,5,6}, {7,8,9}};
+//
+//        MetodosVarios.mostrarMatrizInt(cosa);
+
+//        Práctica3_Tema3 práctica3Tema3 = new Práctica3_Tema3();
+//        práctica3Tema3.p3_t3();
 
 //        vectores_matrices vectoresMatrices = new vectores_matrices();
 //        vectoresMatrices.vect_matr();

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Actividad_inicial {
 
-   public void ejecutar() {
+   public static void ejecutar() {
 
         System.out.println("¿Cómo te llamas?");
         Scanner entrada = new Scanner(System.in);
